@@ -1,5 +1,5 @@
 //? Global Styles
-import GlobalStyle from './components/GlobalStye';
+import GlobalStyle from './components/GlobalStyle';
 
 //? Import Pages
 import AboutUs from './pages/AboutUs';
